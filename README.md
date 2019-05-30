@@ -2,7 +2,7 @@
 ## Python 2.7, Linux
 
 ## How to use?
-Open 3 terminal windows in ubuntu.<br> In every window open the derictory containing python files.<br>
+Open 3 terminal windows in ubuntu.<br> In every window open the directory containing python files.<br>
 Example:
 ```bash
 cd Documents/PacketSniffer
